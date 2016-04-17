@@ -16,37 +16,12 @@ html, body {
 	
 	height : 100%; 
 	width : 100%; 
-
-	
-	/*
-	height: 100%; 
-	width: 100%;
-	background-size: cover; 
-	background-position: 50% 50%;
-	background-repeat : no-repeat;
-	overflow: hidden;
-	*/
 }
 
 .sub{
 	height: 50%; 
 	background-color: blue;
 }
-
-/*
-.mainImg{
-	background-image:url('../images/wolf.jpg');
-}
-*/
-/*
-.sectTwo{
-	background-image: url('../images/forest_moon.png');
-}
-
-.sectThree{
-	background-color: black;
-}
-*/
 
 #sect-one{
 	position: absolute;
@@ -56,7 +31,6 @@ html, body {
 	right: 0; 
 	margin-left: auto; 
 	margin-right: auto; 
-
 }
 
 #sect-two{
@@ -68,10 +42,7 @@ html, body {
 	right: 0; 
 	margin-left: auto; 
 	margin-right: auto; 
-
 }
-	
-	
 	
 }
 
@@ -82,7 +53,6 @@ html, body {
 	font-size : 85px;
 	color: white;
 }
-
 
 #music {	
 	font-family: 'Lato', sans-serif;
@@ -102,13 +72,6 @@ html, body {
 	
 	.set-font{
 	 	font-size: 40px;
-	 	color: red;
 	}
-	
-	
-	
-	
-	
-	
 	
 }
