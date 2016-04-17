@@ -1,0 +1,50 @@
+* {
+	margin : 0; 
+}
+
+html, body { 
+	height: 100%;
+}
+
+
+.main {
+	height: 100%; 
+	width: 100%;
+	background-size: cover; /*ensures the entire image covers the div*/
+}
+
+.sub{
+	height: 50%; 
+	background-color: blue;
+}
+
+
+.mainImg{
+	
+	background-image:url('../images/wolf.jpg');
+}
+
+.sectTwo{
+	background-image: url('../images/forest_moon.png');
+}
+
+
+#title{
+	text-align : center;
+	padding-top: 60px;
+	font-family: 'Lato', sans-serif;
+	font-weight : 100;
+	font-size : 85px;
+}
+
+#music-header{
+	background-color: black;
+	opacity: 0.8;
+}
+#music {	
+	font-family: 'Lato', sans-serif;
+	font-weight: 100; 
+	font-size: 85px; 
+	color : #FFFFFF;
+	text-align : center;
+}
