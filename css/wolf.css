@@ -15,6 +15,7 @@ img, object{
 	height: 100%; 
 	width: 100%;
 	background-size: cover; /*ensures the entire image covers the div*/
+	background-position: center center;
 }
 
 .sub{
