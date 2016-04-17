@@ -1,5 +1,2 @@
-<?php 
 
-	include_once('team_wolf.php');
-
-?>
+<?php include_once("team_wolf.html"); ?>
