@@ -10,6 +10,7 @@ html, body {
 #sect-one-container, #sect-two-container{
 	height: 100%;
 	width: 100%;
+	overflow:hidden;
 
 }
 
@@ -17,7 +18,7 @@ html, body {
 	
 	height : 100%; 
 	width : 100%; 
-	object-fit:cover;
+	
 }
 
 .sub{
