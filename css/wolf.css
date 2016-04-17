@@ -1,0 +1,114 @@
+* {
+	margin : 0; 
+	padding: 0;
+}
+
+html, body { 
+	height: 100%;
+}
+
+
+#sect-one-container{
+	height: 100%;
+	width: 100%;
+}
+.bg-img{
+	
+	height : 100%; 
+	width : 100%; 
+
+	
+	/*
+	height: 100%; 
+	width: 100%;
+	background-size: cover; 
+	background-position: 50% 50%;
+	background-repeat : no-repeat;
+	overflow: hidden;
+	*/
+}
+
+.sub{
+	height: 50%; 
+	background-color: blue;
+}
+
+/*
+.mainImg{
+	background-image:url('../images/wolf.jpg');
+}
+*/
+/*
+.sectTwo{
+	background-image: url('../images/forest_moon.png');
+}
+
+.sectThree{
+	background-color: black;
+}
+*/
+
+#sect-one{
+	position: absolute;
+	text-align : center;
+	top: 5%;
+	left: 0;
+	right: 0; 
+	margin-left: auto; 
+	margin-right: auto; 
+
+}
+
+#sect-two{
+	background-color: black;
+	opacity: 0.8;
+	position: absolute;
+	top: 787px;
+	left: 0;
+	right: 0; 
+	margin-left: auto; 
+	margin-right: auto; 
+
+}
+	
+	
+	
+}
+
+#call{
+	background-color: black;
+	font-family: 'Lato', sans-serif;
+	font-weight : 100;
+	font-size : 85px;
+	color: white;
+}
+
+
+#music {	
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	color : #FFFFFF;
+	text-align : center;
+}
+
+.set-font{
+	font-size: 85px;
+	font-family: 'Lato', sans-serif;
+	font-weight : 100;
+}
+
+
+@media screen and (max-width:959px){
+	
+	.set-font{
+	 	font-size: 40px;
+	 	color: red;
+	}
+	
+	
+	
+	
+	
+	
+	
+}
